@@ -48,36 +48,43 @@ R ._.
 // N _.
 morse_Dash();
 morse_Dot();
+delay(1800);  // delay for 1.8 second after alphabet
 
 
 // A ._
 morse_Dot();
 morse_Dash();
+delay(1800);  // delay for 1.8 second after alphabet
+
 
 // R ._.
 morse_Dot();
 morse_Dash();
 morse_Dot();
+delay(1800);  // delay for 1.8 second after alphabet
+
 
 // I ..
 morse_Dot();
 morse_Dot();
-
+delay(1800);  // delay for 1.8 second after alphabet
 
 //  N _.
 morse_Dash();
 morse_Dot();
+delay(1800);  // delay for 1.8 second after alphabet
 
 // D _..
 morse_Dash();
 morse_Dot();
 morse_Dot();
-
-//E .;
+delay(1800);  // delay for 1.8 second after alphabet
+//E .
 morse_Dot();
 
 // R ._.
 morse_Dot();
 morse_Dash();
 morse_Dot();
+delay(1800);  // delay for 1.8 second after alphabet
 }
